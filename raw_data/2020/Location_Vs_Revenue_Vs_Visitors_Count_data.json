@@ -1,0 +1,564 @@
+{
+  "columns": [
+    "Type",
+    "Place",
+    "Foreign Number",
+    "Foreign Income",
+    "Local Number",
+    "Local Income"
+  ],
+  "rows": [
+    [
+      "Museum",
+      "Colombo National Museum",
+      11762,
+      11813400.00001,
+      24541,
+      1298670.00001
+    ],
+    [
+      "Museum",
+      "Natural History Museum",
+      1053,
+      818000,
+      11164,
+      459650
+    ],
+    [
+      "Museum",
+      "Dutch Museum",
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      "Museum",
+      "Independence Memorial Museum",
+      478,
+      137400,
+      4335,
+      34450
+    ],
+    [
+      "Museum",
+      "Hambantota National Museum",
+      22,
+      10800,
+      680,
+      10990
+    ],
+    [
+      "Museum",
+      "Rathnapura National Museum",
+      1,
+      500,
+      1362,
+      35260
+    ],
+    [
+      "Museum",
+      "Galle National Museum",
+      1301,
+      385050,
+      6315,
+      82390
+    ],
+    [
+      "Museum",
+      "Galle Maritime Museum",
+      1092,
+      319800,
+      9160,
+      122835
+    ],
+    [
+      "Museum",
+      "Anuradhapura Folk Museum",
+      25,
+      7500,
+      1660,
+      26050
+    ],
+    [
+      "Museum",
+      "Kandy National Museum",
+      914,
+      542000,
+      6099,
+      127505
+    ],
+    [
+      "Museum",
+      "Polonnaruwa Museum",
+      83,
+      81500,
+      30713,
+      2338270
+    ],
+    [
+      "Cultural Triangle",
+      "Abhayagiriya",
+      366,
+      1521838,
+      14815,
+      288020
+    ],
+    [
+      "Cultural Triangle",
+      "Jethawanaya",
+      16721,
+      72829772,
+      452,
+      8380
+    ],
+    [
+      "Cultural Triangle",
+      "Sigiriya",
+      103651,
+      537489876,
+      182093,
+      9387175
+    ],
+    [
+      "Cultural Triangle",
+      "Polonnaruwa",
+      47517,
+      209311802,
+      13653,
+      551075
+    ],
+    [
+      "Cultural Triangle",
+      "Kandy",
+      45,
+      8196,
+      1008,
+      17420
+    ],
+    [
+      "Cultural Triangle",
+      "Galle",
+      3683,
+      2897957,
+      8387,
+      330835
+    ],
+    [
+      "Cultural Triangle",
+      "Ramba",
+      9,
+      6631,
+      0,
+      0
+    ],
+    [
+      "Cultural Triangle",
+      "Apegama",
+      895,
+      628904,
+      12547,
+      827030
+    ],
+    [
+      "Cultural Triangle",
+      "Kataragama",
+      805,
+      524524,
+      1584,
+      29200
+    ],
+    [
+      "Cultural Triangle",
+      "Yapahuwa",
+      15,
+      13660,
+      0,
+      0
+    ],
+    [
+      "Cultural Triangle",
+      "Buduruwagala",
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      "Cultural Triangle",
+      "Dambulla",
+      8705,
+      3124430,
+      0,
+      0
+    ],
+    [
+      "Cultural Triangle",
+      "Ritigala",
+      0,
+      0,
+      19124,
+      336710
+    ],
+    [
+      "Cultural Triangle",
+      "Ibbankatuwa",
+      2119,
+      1035992,
+      10138,
+      190310
+    ],
+    [
+      "Cultural Triangle",
+      "Namal Uyana",
+      192,
+      69010,
+      24377,
+      415838
+    ],
+    [
+      "Cultural Triangle",
+      "Lahugala",
+      543,
+      542355,
+      0,
+      0
+    ],
+    [
+      "Zoological Garden",
+      "Dehiwala",
+      5058,
+      9662100,
+      301897,
+      28536370
+    ],
+    [
+      "Zoological Garden",
+      "Pinnawala",
+      48326,
+      102508650,
+      126214,
+      11178680
+    ],
+    [
+      "Zoological Garden",
+      "Pinnawala Zoo",
+      704,
+      481950,
+      94277,
+      8686750
+    ],
+    [
+      "Zoological Garden",
+      "Ridiyagama Safari Park",
+      401,
+      1066400,
+      106821,
+      29654420
+    ],
+    [
+      "Botanical Garden",
+      "Peradeniya",
+      87554,
+      17051040,
+      359456,
+      30548640
+    ],
+    [
+      "Botanical Garden",
+      "Hakgala",
+      5562,
+      10790200,
+      210717,
+      16870260
+    ],
+    [
+      "Botanical Garden",
+      "Gampaha",
+      86,
+      168000,
+      67869,
+      6284980
+    ],
+    [
+      "Botanical Garden",
+      "Mirijawila",
+      60,
+      115400,
+      40978,
+      2791040
+    ],
+    [
+      "Botanical Garden",
+      "Avissawella",
+      121,
+      237000,
+      133987,
+      11383100
+    ],
+    [
+      "Botanical Garden",
+      "Ganewattha",
+      2,
+      4000,
+      405,
+      34660
+    ],
+    [
+      "Wildlife Park",
+      "Yala",
+      67137,
+      179408732,
+      161330,
+      16195691
+    ],
+    [
+      "Wildlife Park",
+      "Horton Plains",
+      20382,
+      51945787,
+      100644,
+      5761610
+    ],
+    [
+      "Wildlife Park",
+      "Udawalawa",
+      53507,
+      144079040,
+      67953,
+      3964530
+    ],
+    [
+      "Wildlife Park",
+      "Wasgomuwa",
+      626,
+      269628,
+      9461,
+      244980
+    ],
+    [
+      "Wildlife Park",
+      "Minneriya",
+      1520,
+      4113122,
+      27060,
+      1564890
+    ],
+    [
+      "Wildlife Park",
+      "Bundala",
+      2258,
+      4271151,
+      4520,
+      176400
+    ],
+    [
+      "Wildlife Park",
+      "Horagolla",
+      5,
+      9050,
+      3331,
+      126210
+    ],
+    [
+      "Wildlife Park",
+      "Kaudulla",
+      118,
+      166238,
+      15690,
+      486720
+    ],
+    [
+      "Wildlife Park",
+      "Lunugamwehera",
+      189,
+      349236,
+      1857,
+      83180
+    ],
+    [
+      "Wildlife Park",
+      "Galoya",
+      892,
+      487966,
+      4950,
+      122190
+    ],
+    [
+      "Wildlife Park",
+      "Kumana",
+      570,
+      1081675,
+      14334,
+      734120
+    ],
+    [
+      "Wildlife Park",
+      "Angammedilla",
+      1,
+      0,
+      747,
+      50283
+    ],
+    [
+      "Wildlife Park",
+      "Galways Land",
+      0,
+      0,
+      1519,
+      59140
+    ],
+    [
+      "Wildlife Park",
+      "Wilpattu",
+      7365,
+      19869736,
+      31737,
+      1885079
+    ],
+    [
+      "Wildlife Park",
+      "Maduruoya",
+      161,
+      303375,
+      1811,
+      83740
+    ],
+    [
+      "Wildlife Park",
+      "Lahugala",
+      0,
+      0,
+      299,
+      11060
+    ],
+    [
+      "Wildlife Park",
+      "Pigeon Island",
+      1181,
+      2119130,
+      28114,
+      1086050
+    ],
+    [
+      "Wildlife Park",
+      "Hikkaduawa",
+      2474,
+      75433,
+      9284,
+      43943
+    ],
+    [
+      "Wildlife Park",
+      "Eth Athurusevena",
+      15906,
+      7818750,
+      25436,
+      438805
+    ],
+    [
+      "Wildlife Park",
+      "Kalawewa",
+      0,
+      0,
+      410,
+      16400
+    ],
+    [
+      "Wildlife Park",
+      "Bar Reef - Kalpitiya",
+      2347,
+      3349492,
+      7054,
+      139190
+    ],
+    [
+      "Wildlife Park",
+      "Mirissa",
+      43234,
+      75363078,
+      3412,
+      379003
+    ],
+    [
+      "Conservation Forest",
+      "Makandawa Conservation Forest",
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      "Conservation Forest",
+      "Kottawa Conservation Forest",
+      66,
+      45500,
+      899,
+      25767
+    ],
+    [
+      "Conservation Forest",
+      "Kanneliya Conservation Forest",
+      868,
+      586600,
+      18959,
+      475425
+    ],
+    [
+      "Conservation Forest",
+      "Hurulu Eco Park",
+      45267,
+      53483400,
+      21362,
+      1461705
+    ],
+    [
+      "Conservation Forest",
+      "Sinharaja Conservation Forest",
+      5673,
+      3937500,
+      21343,
+      553311
+    ],
+    [
+      "Conservation Forest",
+      "Udawattakele Conservation Forest",
+      3798,
+      3014000,
+      10897,
+      378665
+    ],
+    [
+      "Conservation Forest",
+      "Knuckles Conservation Forest",
+      491,
+      326508,
+      38161,
+      1017069
+    ],
+    [
+      "Conservation Forest",
+      "Kandeela Forest",
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      "Conservation Forest",
+      "Kurulukele",
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      "Conservation Forest",
+      "Rathna Ella",
+      1,
+      300,
+      1005,
+      40600
+    ]
+  ]
+}

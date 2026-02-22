@@ -1,0 +1,396 @@
+{
+  "columns": [
+    "Type",
+    "Place",
+    "Foreign Number",
+    "Foreign Income",
+    "Local Number",
+    "Local Income"
+  ],
+  "rows": [
+    [
+      "Cultural Triangle",
+      "Sigiriya",
+      414575,
+      2138587022.76,
+      611310,
+      27130650
+    ],
+    [
+      "Cultural Triangle",
+      "Polonnaruwa",
+      181778,
+      807397086.47,
+      65880,
+      2600225
+    ],
+    [
+      "Cultural Triangle",
+      "Jethawanaya",
+      70397,
+      305492981.98,
+      7910,
+      144850
+    ],
+    [
+      "Cultural Triangle",
+      "Buduruwagala",
+      31263,
+      11046752.87,
+      0,
+      0
+    ],
+    [
+      "Cultural Triangle",
+      "Yapahuwa",
+      4660,
+      3325575.56,
+      0,
+      0
+    ],
+    [
+      "Cultural Triangle",
+      "Ritigala Forest Monastery",
+      9207,
+      2339342,
+      52788,
+      845500
+    ],
+    [
+      "Cultural Triangle",
+      "Namal Uyana",
+      1753,
+      1529350.45,
+      70150,
+      1393100
+    ],
+    [
+      "Cultural Triangle",
+      "Abhayagiriya",
+      1352,
+      5810773.5,
+      32348,
+      580902
+    ],
+    [
+      "Other",
+      "Apegama",
+      1356,
+      855476.05,
+      84123,
+      5513260
+    ],
+    [
+      "Museum",
+      "Galle Museum",
+      12661,
+      10217489.46,
+      51286,
+      1505295
+    ],
+    [
+      "Cultural Triangle",
+      "Ibbankatuwa Ancient Burial Ground",
+      1002,
+      338153.99,
+      30442,
+      580580
+    ],
+    [
+      "Museum",
+      "Dambulla Museum",
+      321,
+      111986,
+      560,
+      8100
+    ],
+    [
+      "Museum",
+      "Katharagama Museum",
+      68,
+      61725,
+      9266,
+      164000
+    ],
+    [
+      "Museum",
+      "Kandy Museum",
+      176,
+      41687.13,
+      5818,
+      95418
+    ],
+    [
+      "Cultural Triangle",
+      "Ramba Viharaya",
+      31,
+      11204,
+      0,
+      0
+    ],
+    [
+      "Cultural Triangle",
+      "Lahugala",
+      254,
+      86868,
+      0,
+      0
+    ],
+    [
+      "Wildlife Park",
+      "Yala National Park",
+      206843,
+      3,
+      0,
+      0
+    ],
+    [
+      "Wildlife Park",
+      "Udawalawa National Park",
+      175251,
+      2.6,
+      0,
+      0
+    ],
+    [
+      "Wildlife Park",
+      "Wilpattu National Park",
+      63543,
+      0.4,
+      0,
+      0
+    ],
+    [
+      "Wildlife Park",
+      "Kumana Bird Sanctuary",
+      11471,
+      0.07,
+      0,
+      0
+    ],
+    [
+      "Wildlife Park",
+      "Hurulu Eco Park",
+      82724,
+      62.8,
+      0,
+      0
+    ],
+    [
+      "Conservation Forest",
+      "Kanneliya Conservation Forest",
+      1985,
+      0.7,
+      0,
+      0
+    ],
+    [
+      "Conservation Forest",
+      "Sinharaja Conservation Forest",
+      13877,
+      4.4,
+      0,
+      0
+    ],
+    [
+      "Conservation Forest",
+      "Udawattakele Conservation Forest",
+      12969,
+      3.8,
+      0,
+      0
+    ],
+    [
+      "Conservation Forest",
+      "Knuckles Conservation Forest",
+      1964,
+      0.6,
+      0,
+      0
+    ],
+    [
+      "Conservation Forest",
+      "Makandawa Conservation Forest",
+      814,
+      2.8,
+      0,
+      0
+    ],
+    [
+      "Conservation Forest",
+      "Kottawa Conservation Forest",
+      168,
+      0.05,
+      0,
+      0
+    ],
+    [
+      "Conservation Forest",
+      "Kurulukele",
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      "Conservation Forest",
+      "Kande Ela Forest",
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      "Botanical Garden",
+      "Peradeniya Botanical Garden",
+      309909,
+      501765150,
+      928069,
+      57233540
+    ],
+    [
+      "Botanical Garden",
+      "Hakgala Botanical Garden",
+      21207,
+      34096150,
+      680744,
+      42624540
+    ],
+    [
+      "Botanical Garden",
+      "Gampaha Botanical Garden",
+      305,
+      481150,
+      149324,
+      10161660
+    ],
+    [
+      "Botanical Garden",
+      "Mirijjawila Botanical Garden",
+      261,
+      411850,
+      89653,
+      4750300
+    ],
+    [
+      "Botanical Garden",
+      "Avissawella Botanical Garden",
+      203,
+      333250,
+      249861,
+      16135510
+    ],
+    [
+      "Botanical Garden",
+      "Ganewattha Botanical Garden",
+      3,
+      5000,
+      551,
+      31670
+    ],
+    [
+      "Zoological Garden",
+      "Dehiwala Zoo",
+      23667,
+      35609400,
+      1123287,
+      97826210
+    ],
+    [
+      "Zoological Garden",
+      "Pinnawala Elephant Orphanage",
+      198399,
+      436803000,
+      484268,
+      93307460
+    ],
+    [
+      "Zoological Garden",
+      "Pinnawala Zoo",
+      3545,
+      2188250,
+      293658,
+      24462010
+    ],
+    [
+      "Zoological Garden",
+      "Ridiyagama Safari Park",
+      954,
+      2343700,
+      315284,
+      80835540
+    ],
+    [
+      "Museum",
+      "Colombo National Museum",
+      49736,
+      49800000,
+      169792,
+      7945190
+    ],
+    [
+      "Museum",
+      "Natural History Museum",
+      2509,
+      2144060,
+      44804,
+      11163880
+    ],
+    [
+      "Museum",
+      "Independence Memorial Museum",
+      1298,
+      369900,
+      21801,
+      168950
+    ],
+    [
+      "Museum",
+      "Galle National Museum",
+      5038,
+      1492850,
+      25327,
+      2258750
+    ],
+    [
+      "Museum",
+      "Galle Maritime Museum",
+      3247,
+      983450,
+      83605,
+      3289050
+    ],
+    [
+      "Museum",
+      "Kandy National Museum",
+      2747,
+      1264200,
+      15499,
+      361069
+    ],
+    [
+      "Museum",
+      "Polonnaruwa Museum",
+      118,
+      11200,
+      0,
+      0
+    ],
+    [
+      "Museum",
+      "Anuradapura Folk Museum",
+      126,
+      12600,
+      724,
+      2748
+    ],
+    [
+      "Museum",
+      "Hambantota National Museum",
+      58,
+      0.0002,
+      0,
+      0
+    ]
+  ]
+}

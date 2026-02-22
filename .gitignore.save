@@ -1,0 +1,21 @@
+# macOS system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+anaconda_projects/
+
+# Environment variable files
+.env
+
+# Logs
+*.log

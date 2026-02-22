@@ -1,8 +1,3 @@
-"""
-streamlit_app_final_fixed.py
-Fixed Streamlit app with working year selection and searchable dropdown
-"""
-
 import streamlit as st
 import pandas as pd
 import numpy as np
